@@ -18,10 +18,17 @@
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanS&layout=compact&langs_count=8&card_width=320&theme=dark" />
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gilvan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Gilvan-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Gilvan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Gilvan-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
-  <img align="center" alt="Gilvan-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Gilvan-Playwrigth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img align="center" alt="Gilvan-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Gilvan-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Gilvan-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Gilvan-Cypress" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
+  <img align="center" alt="Gilvan-Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Gilvan-Playwrigth" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img align="center" alt="Gilvan-Appium" height="60" width="80" src=https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Xp24SeoI4POuwMqrhXtzRQ.jpeg />
+  <img align="center" alt="Gilvan-API" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+  <img align="center" alt="Gilvan-Jira" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+  <img align="right" alt="Gilvan-QA" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/hacker-5817421-4847665.mp4" />
+
+  
+ 
           
