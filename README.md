@@ -27,9 +27,11 @@
   <img align="center" alt="Gilvan-Appium" height="60" width="80" src=https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Xp24SeoI4POuwMqrhXtzRQ.jpeg />
   <img align="center" alt="Gilvan-API" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
   <img align="center" alt="Gilvan-Jira" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-  <img align="right" alt="Gilvan-QA" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/hacker-5817421-4847665.mp4" />
+  <img align="right" alt="Gilvan-QA" src="https://www.trilhadequalidade.com.br/content/images/2024/05/user-testing.gif" />
 
-  <picture>
+  ##
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GilvanS/GilvanS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GilvanS/GilvanS/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GilvanS/GilvanS/output/github-contribution-grid-snake.svg">
