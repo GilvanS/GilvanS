@@ -7,7 +7,6 @@
 - 🧠 Busco ajuda com estratégias avançadas de **automação mobile** e **testes multiplataforma**.
 - 💬 Me pergunte sobre **processos de QA**, **Vision Plus**, **testes de regressão automatizados** ou qualquer assunto relacionado a **meios de pagamento eletrônico**.
 - 📫 Como falar comigo: [LinkedIn](https://www.linkedin.com/in/gilvan-jo%C3%A3o-sousa-4a9755a9/?trk=opento_sprofile_details)
-- 👨‍💻 Pronomes: ele/dele
 - ✨ Curiosidade: adoro aprender novas ferramentas e transformar processos complexos de teste em pipelines automatizadas e eficientes!
 
 📌 Vamos nos conectar, trocar ideias e construir softwares com mais qualidade!
