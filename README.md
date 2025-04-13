@@ -29,6 +29,12 @@
   <img align="center" alt="Gilvan-Jira" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
   <img align="right" alt="Gilvan-QA" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/hacker-5817421-4847665.mp4" />
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GilvanS/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GilvanS/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GilvanS/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
+
   
  
           
