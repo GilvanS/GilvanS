@@ -1,6 +1,6 @@
 ## Olá 👋
 
-🧳 Sou **Gilvan João Sousa**, Analista de Teste Sênior com mais de 6 anos de experiência em testes ágeis e funcionais.
+🧳 Sou **Gilvan João Sousa**, Analista de Teste Sênior com mais de 7 anos de experiência em testes ágeis e funcionais.
 - 💼 Atualmente estou trabalhando em projetos de **garantia de qualidade**, com foco em **automação de testes** para aplicações web e mobile.
 - 📚 Já atuo com **Selenium** para testes web e com **Appium + Java** para automação mobile em **Android e iOS**. Também estou estudando ferramentas como **Cypress**, **Playwright**, além de aprofundar meus conhecimentos em **JavaScript** e **Python**.
 - 🤝 Procuro colaborar em projetos open source relacionados à **automação de testes** e **boas práticas de QA**.
